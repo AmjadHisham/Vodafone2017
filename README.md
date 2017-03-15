@@ -1,4 +1,4 @@
-# Deep Learning from Scratch (v2.0)
+# Deep Learning from Scratch (v3.0)
 
 This course is organized by the DataScienceGroup@UB (http://datascience.barcelona/)
 
