@@ -39,3 +39,5 @@ Once Docker is installed, you can dowload the image of this course:
 + Run the ``deepub`` image on your system: ``docker run -it -p 8888:8888 -p 6006:6006 -v /$(pwd):/notebooks datascienceub/deepub``
 + Once these steps have been done, you can check the installation by starting your web browser and introducing this  URL: ``http://localhost:8888``.
 + Open a new Jupyter notebook and execute this instruction in a code cell: ``!git clone https://github.com/DataScienceUB/Vodafone2017``
+
+### Note: Docker for Windows requires 64bit Windows 10 Pro, Enterprise and Education. The Hyper-V package must be enabled for Docker for Windows to work. The Docker for Windows installer will enable it for you, if needed. (This requires a reboot). If your system does not satisfy these requirements, you can install Docker Toolbox, which uses Oracle Virtual Box instead of Hyper-V.
